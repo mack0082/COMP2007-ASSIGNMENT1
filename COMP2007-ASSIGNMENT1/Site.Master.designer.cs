@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace COMP2007_LESSON2_PART2B {
+namespace COMP2007_ASSIGNMENT1 {
     
     
     public partial class Site {
