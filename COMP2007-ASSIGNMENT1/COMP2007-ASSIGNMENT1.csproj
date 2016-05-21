@@ -66,6 +66,15 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="img\1.jpg" />
+    <Content Include="img\2.jpg" />
+    <Content Include="img\arduino.jpg" />
+    <Content Include="img\banner-bg.jpg" />
+    <Content Include="img\dog.png" />
+    <Content Include="img\IMG_1503.JPG" />
+    <Content Include="img\intro-bg.jpg" />
+    <Content Include="img\ipad.png" />
+    <Content Include="img\phones.png" />
     <Content Include="packages.config" />
     <Content Include="Site.Master" />
     <Content Include="Scripts\jquery-2.2.3.min.map" />
